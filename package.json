@@ -1,5 +1,5 @@
 {
-  "name": "bare-rn-template",
+  "name": "react-native-template",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -11,16 +11,9 @@
   },
   "author": {
     "name": "Jacint Varga",
-    "email": "jacint.varga@dakai.io",
+    "email": "vargajacint.personal@gmail.com",
     "url": "https://twitter.com/vrg_jacint"
   },
-  "maintainers": [
-    {
-      "name": "Norman Wilde",
-      "email": "norman.wilde@dakai.io",
-      "url": "https://github.com/normanwilde"
-    }
-  ],
   "dependencies": {
     "@react-navigation/bottom-tabs": "^6.5.8",
     "@react-navigation/native": "^6.1.7",
