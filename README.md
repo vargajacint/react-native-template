@@ -164,3 +164,9 @@ rm -f Podfile.lock
 ```
 
 </details>
+
+## Checklist
+
+- [ ] Testing with [React Native Testing Library](https://callstack.github.io/react-native-testing-library/)
+- [ ] Native SVG asset [generator](https://github.com/oblador/react-native-vector-image/blob/master/README.md)
+- [ ] CLI version of this repository
